@@ -1,0 +1,36 @@
+body{
+  width: 100%;
+  font-family: monospace;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(1, 1, 80);
+    text-align: center;
+
+}  
+
+h2{
+   font-family: monospace;
+   color: rgb(84, 20, 143);
+   text-align: center;
+}
+
+.centered-table{
+   margin: 0 auto;
+}
+
+
+table, th ,tr, td{
+    border: 2px solid rgb(64, 0, 96);
+
+}
+
+table th,td{
+    font-size: larger;
+}
+
+th ,tr, td{
+  padding: 10px 0;
+
+}
